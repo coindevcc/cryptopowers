@@ -1,0 +1,9 @@
+Building cryptopowers
+
+See doc/readme-qt.rst for instructions on building cryptopowers-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of cryptopowers.
+
+See doc/build-*.txt for instructions on building cryptopowersd,
+the intended-for-services, no-graphical-interface, reference
+implementation of cryptopowers.
